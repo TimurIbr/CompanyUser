@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\CompanyUser\CompanyUser\bin\Release\netcoreapp2.0\CompanyUser.deps.json
+C:\Users\user\source\repos\CompanyUser\CompanyUser\bin\Release\netcoreapp2.0\CompanyUser.runtimeconfig.json
+C:\Users\user\source\repos\CompanyUser\CompanyUser\bin\Release\netcoreapp2.0\CompanyUser.runtimeconfig.dev.json
+C:\Users\user\source\repos\CompanyUser\CompanyUser\bin\Release\netcoreapp2.0\CompanyUser.dll
+C:\Users\user\source\repos\CompanyUser\CompanyUser\bin\Release\netcoreapp2.0\CompanyUser.pdb
+C:\Users\user\source\repos\CompanyUser\CompanyUser\obj\Release\netcoreapp2.0\CompanyUser.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CompanyUser\CompanyUser\obj\Release\netcoreapp2.0\CompanyUser.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CompanyUser\CompanyUser\obj\Release\netcoreapp2.0\CompanyUser.AssemblyInfo.cs
+C:\Users\user\source\repos\CompanyUser\CompanyUser\obj\Release\netcoreapp2.0\CompanyUser.dll
+C:\Users\user\source\repos\CompanyUser\CompanyUser\obj\Release\netcoreapp2.0\CompanyUser.pdb
+C:\Users\user\source\repos\CompanyUser\CompanyUser\obj\Release\netcoreapp2.0\CompanyUser.csprojResolveAssemblyReference.cache
